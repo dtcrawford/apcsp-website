@@ -1,18 +1,50 @@
- .heading{
-	text-align: center;
-	text-shadow: 3px 4px blue;
+.heading{
+       text-align: center;
+       text-shadow: 3px 4px Dodgerblue;
 }
 
 table, td, th {
-	border: 2px solid black;
+    border: 2px solid black;
 }
 
 .Referencetable {
-	border-collapse: collapse;
-	width: 100%;
-	Text-align: Left;
+    border-collapse: collapse;
+    width: 100%;
+    Text-align: Left;
 }
 
 th {
-	height: 50px;
-	
+    height: 50px;
+    text-align: center;
+}
+
+   th {
+    background-color: darkblue;
+    color: white;
+}
+
+body{
+  background-color: Grey;
+  font-family: Arial;
+  padding: 12px;
+  text-align: justify;
+}
+
+h2{
+  background-color: darkblue;
+  color:white;
+  text-align: center;
+}
+.exampletable{
+  width: 100%;
+}
+.examplelist{
+  text-align: left;
+   list-style-type: square;
+   margin: 10px;
+   padding: 10px;
+   line-height: 20px;
+}
+.listheading{
+  text-align: center;
+}
