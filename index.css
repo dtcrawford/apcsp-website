@@ -1,0 +1,18 @@
+ .heading{
+	text-align: center;
+	text-shadow: 3px 4px blue;
+}
+
+table, td, th {
+	border: 2px solid black;
+}
+
+.Referencetable {
+	border-collapse: collapse;
+	width: 100%;
+	Text-align: Left;
+}
+
+th {
+	height: 50px;
+	
