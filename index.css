@@ -1,0 +1,16 @@
+.heading{
+       text-align: center;
+       text-shadow: 3px 4px Dodgerblue;
+}
+body{
+  background-color: Grey;
+  font-family: Arial;
+  padding: 12px;
+  text-align: justify;
+}
+
+h2{
+  background-color: darkblue;
+  color:white;
+  text-align: center;
+}
